@@ -1,6 +1,7 @@
 #Read Me
- Some trainings for python
+Some trainings for python
 
  LUL
 
  Deneme
+ hue
